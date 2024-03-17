@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aranyak1010
 - 👀 I’m interested in Cloud Computing, DataBase Management Systems and AI/ML.
-- 🌱 I’m currently learning C/C++,Python,MySQL.
+- 🌱 I’m currently learning C/C++,Python,MySQL,HTML-CSS-JavaScript.
 - 💞️ I’m looking to collaborate on Web Development and Cloud.
 - 📫 How to reach me: LinkedIN - www.linkedin.com/in/aranyak-banerjee-15a193253.
 
