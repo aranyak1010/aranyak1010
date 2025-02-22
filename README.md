@@ -14,6 +14,7 @@
 - 👯 I’m looking to collaborate on **ML and DL projects**
 
 - 🤝 I’m looking for help with **Implementing advanced algorithms, such as generative adversarial networks (GANs), Integrating machine learning models into production environments like Docker**
+- 👨‍💻 View my Resume at [https://aranyak-portfolio.s3.us-east-1.amazonaws.com/portfolio.html](https://aranyak-portfolio.s3.us-east-1.amazonaws.com/portfolio.html)
 
 - 💬 Ask me about **Tensorflow, Keras, ML Models**
 
