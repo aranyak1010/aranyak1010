@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **FormFlow AI**
 
-- 🌱 I’m currently learning **PyTorch, OpenCV, CNN, GenAI**
+- 🌱 I’m currently learning **OpenCV, CNN, GenAI and Data Engineering**
 
 - 👯 I’m looking to collaborate on **ML and DL projects**
 
